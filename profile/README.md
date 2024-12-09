@@ -1,3 +1,3 @@
-이 Organization은 Deprecated 되었습니다.
+![DIMIGOin](https://github.com/dimigoin/.github/blob/main/profile/dimigoinbanner.png)
 
 https://github.com/intra-int
